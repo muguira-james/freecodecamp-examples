@@ -1,11 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "barney Rubble <br@example.com>",
-	"keywords": [].
-	"description": "some code",
-	"bugs": "bugs, what bugs",
-	"licenses": "GNU",
-	"contributors": "jim",
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
